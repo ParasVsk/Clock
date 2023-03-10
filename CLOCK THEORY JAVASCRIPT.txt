@@ -1,0 +1,18 @@
+CLOCK THEORY JAVASCRIPT
+
+-- HOUR HAND --
+12hr = 360 deg (rotation)
+1hr = 360/12 = 30 deg (rotation)
+
+for h hours 
+30*h + m/2  >>>>> Formula.
+
+-- MINUTE HAND --
+60 min = 360deg
+1 min = 360/60 
+	= 6 deg
+for m minutes 
+m min - 6*m deg >>>>>> Formula.
+
+-- SECONDS HAND --
+s sec - 6*s deg >>>>>> Formula.
